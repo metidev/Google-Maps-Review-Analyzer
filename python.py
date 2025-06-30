@@ -29,7 +29,7 @@ driver = webdriver.Chrome(options=options)
 wait = WebDriverWait(driver, 15)
 
 # --- Target Google Maps URL
-location_url = "https://www.google.com/maps/place/Shamsipour+Technical+and+Vocational+College/@35.7039419,51.4501719,17z/data=!3m1!4b1!4m6!3m5!1s0x3f8e0248182b1fdf:0x41b23deefbb9c666!8m2!3d35.7039376!4d51.4527468!16s%2Fm%2F0j3fgbb!5m1!1e2"
+location_url = "https://www.google.com/maps/place/Your+Location"
 print("🌐 Loading Google Maps page ...")
 driver.get(location_url)
 time.sleep(4)
