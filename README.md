@@ -1,5 +1,3 @@
-حتماً Mehdi جان! اینم نسخه‌ی کامل و تمیز فایل `README.md` به زبان انگلیسی برای ریپازیتوری GitHub پروژه‌ت:
-
 # 🗺️ Google Maps Review Analyzer with AI
 
 A Python script that automatically collects user reviews from a specific Google Maps location and analyzes them using AI. It extracts names of mentioned individuals and performs sentiment analysis to determine how positively or negatively each person is discussed.
