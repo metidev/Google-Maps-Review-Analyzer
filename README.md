@@ -87,7 +87,7 @@ pip install selenium transformers tqdm
 
 ## 📄 License
 
-MIT © \Mehdi Anvari
+MIT © - Mehdi Anvari
 
 ---
 
